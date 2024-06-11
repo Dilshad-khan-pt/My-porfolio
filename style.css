@@ -51,7 +51,7 @@ nav ul li a:hover{
 
 }
 .section-1 img{
- width: 400px;
+ width: 600px;
  height: auto;
  margin-right: 50px;
  
@@ -70,6 +70,7 @@ position: sticky;
 line-height: 23px;
 /* font-weight: 550; */
 word-spacing: 6px;
+max-width:400px;
 
 }
 .left{
